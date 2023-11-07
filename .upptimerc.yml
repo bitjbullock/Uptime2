@@ -7,9 +7,22 @@ sites:
     url: https://www.google.com
   - name: PointClickCare
     url: https://www60.pointclickcare.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: MediSystem
+    url: https://clientcare.medisystem.ca/
+  - name: Surge Learning
+    url: https://www1.surgelearning.ca/
+  - name: Dayforce
+    url: https://www.dayforcehcm.com/mydayforce/login.aspx
+  - name: Relias
+    url: https://login.relias.ca/
+  - name: Cihi
+    url: https://secure.cihi.ca/
+  - name: LTC Homes
+    url: https://ltchomes.net/LTCHPortal/Login.aspx
 
+   
+    
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
