@@ -40,19 +40,19 @@
     "url": "https://clientcare.medisystem.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/clientcare.medisystem.ca.ico",
     "slug": "medi-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 284,
-    "timeWeek": 518,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "status": "up",
+    "uptime": "97.02%",
+    "uptimeDay": "68.00%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
+    "time": 522,
+    "timeDay": 277,
+    "timeWeek": 490,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-11-18": 0
+      "2023-11-18": 461
     }
   },
   {
