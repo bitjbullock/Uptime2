@@ -114,18 +114,20 @@
     "url": "https://secure.cihi.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/secure.cihi.ca.ico",
     "slug": "cihi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 171,
-    "timeWeek": 209,
-    "timeMonth": 197,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 438,
+    "timeDay": 5249,
+    "timeWeek": 1474,
+    "timeMonth": 524,
+    "timeYear": 438,
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "LTC Homes",
