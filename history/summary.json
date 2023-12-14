@@ -114,19 +114,19 @@
     "url": "https://secure.cihi.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/secure.cihi.ca.ico",
     "slug": "cihi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 5249,
-    "timeWeek": 1474,
-    "timeMonth": 524,
-    "timeYear": 438,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 433,
+    "timeDay": 3557,
+    "timeWeek": 1330,
+    "timeMonth": 513,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 12
     }
   },
   {
